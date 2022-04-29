@@ -2,16 +2,16 @@
    {
       "Id":0,
       "Title":"Stint Analyzer FB",
-      "Small_Image_URL":"https://raw.githubusercontent.com/stintanalyzer/stintanalyzer/42e5556b44d12dd0b2c13e89ac299128be69ca5a/StintAnalyzer_Facebook_450x64.png",
-      "Large_Image_URL":"https://raw.githubusercontent.com/stintanalyzer/stintanalyzer/42e5556b44d12dd0b2c13e89ac299128be69ca5a/StintAnalyzer_Facebook_450x64.png",
+      "Small_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/StintAnalyzer_Facebook_450x64.png",
+      "Large_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/StintAnalyzer_Facebook_450x64.png",
       "Web_URL":"https://www.facebook.com/groups/440748074385914",
       "ExpireDate":"2031-12-31T00:00:00"
    },
    {
       "Id":1,
       "Title":"CC Setups and Chat",
-      "Small_Image_URL":"https://raw.githubusercontent.com/stintanalyzer/stintanalyzer/42e5556b44d12dd0b2c13e89ac299128be69ca5a/CCSetupsAndChat.png",
-      "Large_Image_URL":"https://raw.githubusercontent.com/stintanalyzer/stintanalyzer/42e5556b44d12dd0b2c13e89ac299128be69ca5a/CCSetupsAndChat.png",
+      "Small_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/CCSetupsAndChat.png",
+      "Large_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/CCSetupsAndChat.png",
       "Web_URL":"https://discord.gg/3swNNavn",
       "ExpireDate":"2031-12-31T00:00:00"
    }
