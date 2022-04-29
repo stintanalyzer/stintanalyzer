@@ -38,5 +38,15 @@
       "Large_Image_Filename":"Everyday_iRacers.png",
       "Web_URL":"https://discord.gg/QEMzZNNd9e",
       "ExpireDate":"2031-12-31T00:00:00"
-   }
+   },
+   {
+      "Id":4,
+      "Title":"iRacers Lounge",
+      "Small_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/iRacersLounge.png",
+      "Large_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/iRacersLounge.png",
+      "Small_Image_Filename":"iRacersLounge.png",
+      "Large_Image_Filename":"iRacersLounge.png",
+      "Web_URL":"http://iracerslounge.com",
+      "ExpireDate":"2031-12-31T00:00:00"
+   }   
 ] 
