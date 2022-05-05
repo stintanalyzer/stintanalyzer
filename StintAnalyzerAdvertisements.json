@@ -41,6 +41,16 @@
    },
    {
       "Id":4,
+      "Title":"Stint Analyzer FAQ",
+      "Small_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/SA_Faq.png",
+      "Large_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/SA_Faq.png",
+      "Small_Image_Filename":"SA_Faq.png",
+      "Large_Image_Filename":"SA_Faq.png",
+      "Web_URL":"https://github.com/stintanalyzer/stintanalyzer/wiki/FAQ",
+      "ExpireDate":"2031-12-31T00:00:00"
+   },
+   {
+      "Id":5,
       "Title":"iRacers Lounge",
       "Small_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/iRacersLounge.png",
       "Large_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/iRacersLounge.png",
@@ -48,5 +58,15 @@
       "Large_Image_Filename":"iRacersLounge.png",
       "Web_URL":"http://iracerslounge.com",
       "ExpireDate":"2031-12-31T00:00:00"
-   }   
+   },
+   {
+      "Id":6,
+      "Title":"Stint Analyzer YouTube",
+      "Small_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/SA_YouTube.png",
+      "Large_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/SA_YouTube.png",
+      "Small_Image_Filename":"SA_YouTube.png",
+      "Large_Image_Filename":"SA_YouTube.png",
+      "Web_URL":"https://www.youtube.com/playlist?list=PLLpAgIryinSo6AfwFo7t95zvPNx-0ZTw9",
+      "ExpireDate":"2031-12-31T00:00:00"
+   }
 ] 
