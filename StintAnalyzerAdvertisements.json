@@ -61,6 +61,16 @@
    },
    {
       "Id":6,
+      "Title":"iRacing Today",
+      "Small_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/iRacingToday.png",
+      "Large_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/iRacingToday.png",
+      "Small_Image_Filename":"iRacingToday.png",
+      "Large_Image_Filename":"iRacingToday.png",
+      "Web_URL":"https://discord.gg/B6p2Jw3",
+      "ExpireDate":"2031-12-31T00:00:00"
+   },
+   {
+      "Id":7,
       "Title":"Stint Analyzer YouTube",
       "Small_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/SA_YouTube.png",
       "Large_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/SA_YouTube.png",
