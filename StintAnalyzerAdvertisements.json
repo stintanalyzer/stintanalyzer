@@ -78,5 +78,15 @@
       "Large_Image_Filename":"AlienFactoryPodcast.png",
       "Web_URL":"https://www.youtube.com/c/Area51AlienFactory",
       "ExpireDate":"2031-12-31T00:00:00"
+   },
+   {
+      "Id":8,
+      "Title":"Stint Analyzer Twitter",
+      "Small_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/SATwitter.png",
+      "Large_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/SATwitter.png",
+      "Small_Image_Filename":"SATwitter.png",
+      "Large_Image_Filename":"SATwitter.png",
+      "Web_URL":"https://twitter.com/stintanalyzer",
+      "ExpireDate":"2031-12-31T00:00:00"
    }
 ] 
