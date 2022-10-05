@@ -7,7 +7,7 @@
       "Small_Image_Filename":"SA_YouTube.png",
       "Large_Image_Filename":"SA_YouTube.png",
       "Web_URL":"https://www.youtube.com/playlist?list=PLLpAgIryinSo6AfwFo7t95zvPNx-0ZTw9",
-      "ExpireDate":"2022-10-04T00:00:00"
+      "ExpireDate":"2022-10-31T00:00:00"
    },   
    {
       "Id":1,
@@ -27,7 +27,7 @@
       "Small_Image_Filename":"CCSetupsAndChat.png",
       "Large_Image_Filename":"CCSetupsAndChat.png",
       "Web_URL":"https://discord.gg/vAjFmQS",
-      "ExpireDate":"2031-10-04T00:00:00"
+      "ExpireDate":"2031-10-31T00:00:00"
    },
    {
       "Id":3,
@@ -57,7 +57,7 @@
       "Small_Image_Filename":"SA_Faq.png",
       "Large_Image_Filename":"SA_Faq.png",
       "Web_URL":"https://github.com/stintanalyzer/stintanalyzer/wiki/FAQ",
-      "ExpireDate":"2022-10-04T00:00:00"
+      "ExpireDate":"2022-10-31T00:00:00"
    },
    {
       "Id":6,
