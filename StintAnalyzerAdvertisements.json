@@ -11,12 +11,12 @@
    },   
    {
       "Id":1,
-      "Title":"Stint Analyzer FB",
-      "Small_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/StintAnalyzer_Facebook_450x64.png",
-      "Large_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/StintAnalyzer_Facebook_450x64.png",
-      "Small_Image_Filename":"StintAnalyzer_Facebook_450x64.png",
-      "Large_Image_Filename":"StintAnalyzer_Facebook_450x64.png",
-      "Web_URL":"https://www.facebook.com/groups/440748074385914",
+      "Title":"ISCA",
+      "Small_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/ISCA_League.png",
+      "Large_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/ISCA_League.png",
+      "Small_Image_Filename":"ISCA_League.png",
+      "Large_Image_Filename":"ISCA_League.png",
+      "Web_URL":"https://www.iracingstockcarassociation.com/",
       "ExpireDate":"2031-12-31T00:00:00"
    },   
    {
