@@ -1,15 +1,5 @@
 [
    {
-      "Id":0,
-      "Title":"Stint Analyzer YouTube",
-      "Small_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/SA_YouTube.png",
-      "Large_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/SA_YouTube.png",
-      "Small_Image_Filename":"SA_YouTube.png",
-      "Large_Image_Filename":"SA_YouTube.png",
-      "Web_URL":"https://www.youtube.com/playlist?list=PLLpAgIryinSo6AfwFo7t95zvPNx-0ZTw9",
-      "ExpireDate":"2022-10-31T00:00:00"
-   },   
-   {
       "Id":1,
       "Title":"ISCA",
       "Small_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/ISCA_League.png",
@@ -50,16 +40,6 @@
       "ExpireDate":"2031-12-31T00:00:00"
    },
    {
-      "Id":5,
-      "Title":"Stint Analyzer FAQ",
-      "Small_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/SA_Faq.png",
-      "Large_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/SA_Faq.png",
-      "Small_Image_Filename":"SA_Faq.png",
-      "Large_Image_Filename":"SA_Faq.png",
-      "Web_URL":"https://github.com/stintanalyzer/stintanalyzer/wiki/FAQ",
-      "ExpireDate":"2022-10-31T00:00:00"
-   },
-   {
       "Id":6,
       "Title":"iRacing Today",
       "Small_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/iRacingToday.png",
@@ -78,15 +58,5 @@
       "Large_Image_Filename":"AlienFactoryPodcast.png",
       "Web_URL":"https://www.youtube.com/c/Area51AlienFactory",
       "ExpireDate":"2031-12-31T00:00:00"
-   },
-   {
-      "Id":8,
-      "Title":"Stint Analyzer Twitter",
-      "Small_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/SATwitter.png",
-      "Large_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/SATwitter.png",
-      "Small_Image_Filename":"SATwitter.png",
-      "Large_Image_Filename":"SATwitter.png",
-      "Web_URL":"https://twitter.com/stintanalyzer",
-      "ExpireDate":"2022-10-31T00:00:00"
    }
 ] 
