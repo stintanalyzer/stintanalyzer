@@ -8,9 +8,19 @@
       "Large_Image_Filename":"ISCA_League.png",
       "Web_URL":"https://www.iracingstockcarassociation.com/",
       "ExpireDate":"2031-12-31T00:00:00"
-   },   
+   }, 
    {
       "Id":2,
+      "Title":"SA Advertisements",
+      "Small_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/SA_Advertisement.png",
+      "Large_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/SA_Advertisement.png",
+      "Small_Image_Filename":"SA_Advertisement.png",
+      "Large_Image_Filename":"SA_Advertisement.png",
+      "Web_URL":"https://forms.gle/4Sy4VR3d6eWhdDjW8",
+      "ExpireDate":"2031-12-31T00:00:00"
+   }, 
+   {
+      "Id":3,
       "Title":"CC Setups and Chat",
       "Small_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/CCSetupsAndChat.png",
       "Large_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/CCSetupsAndChat.png",
@@ -20,7 +30,7 @@
       "ExpireDate":"2031-10-31T00:00:00"
    },
    {
-      "Id":3,
+      "Id":4,
       "Title":"DevTrackiR",
       "Small_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/DevTrackiR.png",
       "Large_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/DevTrackiR.png",
@@ -30,7 +40,7 @@
       "ExpireDate":"2031-12-31T00:00:00"
    },
    {
-      "Id":4,
+      "Id":5,
       "Title":"Busters Corner",
       "Small_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/BustersCorner.png",
       "Large_Image_URL":"https://github.com/stintanalyzer/stintanalyzer/raw/release/BustersCorner.png",
