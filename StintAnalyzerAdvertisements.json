@@ -17,7 +17,7 @@
       "Small_Image_Filename":"SA_Advertisement.png",
       "Large_Image_Filename":"SA_Advertisement.png",
       "Web_URL":"https://forms.gle/4Sy4VR3d6eWhdDjW8",
-      "ExpireDate":"2031-12-31T00:00:00"
+      "ExpireDate":"2023-05-04T00:00:00"
    }, 
    {
       "Id":3,
@@ -27,7 +27,7 @@
       "Small_Image_Filename":"CCSetupsAndChat.png",
       "Large_Image_Filename":"CCSetupsAndChat.png",
       "Web_URL":"https://discord.gg/vAjFmQS",
-      "ExpireDate":"2031-10-31T00:00:00"
+      "ExpireDate":"2031-12-31T00:00:00"
    },
    {
       "Id":4,
@@ -37,7 +37,7 @@
       "Small_Image_Filename":"DevTrackiR.png",
       "Large_Image_Filename":"DevTrackiR.png",
       "Web_URL":"https://devtrackir.herokuapp.com/",
-      "ExpireDate":"2031-12-31T00:00:00"
+      "ExpireDate":"2023-05-01T00:00:00"
    },
    {
       "Id":5,
